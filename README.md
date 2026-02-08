@@ -73,6 +73,7 @@ to support prioritization and resilience planning.
 ## Author
 Anikate Chowdhury  
 ORCID: https://orcid.org/0009-0004-5580-2470
+DOI: https://doi.org/10.5281/zenodo.18526454
 
 ---
 
